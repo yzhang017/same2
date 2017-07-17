@@ -1,0 +1,5 @@
+Now we have text! 
+
+Here is the first file I did for Git by myself. 
+
+What I would like to do is just type something in  to the notepad and see the commit, the changes.
