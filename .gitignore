@@ -1,0 +1,7 @@
+*.aux
+*.pdf
+*.pyc
+
+
+doc/
+data/
