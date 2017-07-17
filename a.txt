@@ -2,4 +2,11 @@ This is the same test text
 
 another line of text 
 
-a+b=c
+a+b=d
+a+c+d+e=b not the same? try this time
+
+a+b+c = d
+
+alternate history: neat
+
+Let's try if this can show the merge stuff
